@@ -48,7 +48,7 @@ class Strings {
   static const String HYPHEN = '-';
   static const String PLUS = '+';
   static const String ROLE_USR = 'User';
-  static const String CHN_IMG_PATH = 'lib/resources/images/bits.png';
+  static const String CHN_IMG_PATH = 'lib/resources/images/krce.png';
   static const String FOR = 'for';
   static const String BACK_SLASH = '/';
   static const String POST = 'POST';
@@ -79,6 +79,22 @@ class Strings {
 
   // Page Titles
   static const String TITLE_DPSR_BOJ_BUY_FOOD_PRDS = 'Sell Food Products';
+  static const String TITLE_student= 'Student';
+  static const String TITLE_studentname= 'Student Name';
+  static const String TITLE_studentid= 'Student ID';
+  static const String TITLE_studentrollno= 'Student College';
+  static const String TITLE_studentmark= 'Student Course';
+  static const String TITLE_college = 'College';
+  static const String TITLE_subject = 'Subject';
+  static const String TITLE_subject1 = 'Internet of Things';
+  static const String TITLE_subject2= 'Artificial intelligence';
+  static const String TITLE_subject3 = 'Computer Networks';
+  static const String TITLE_subject4 = 'Mobile Computing';
+  static const String TITLE_subject5 = 'Theory of Automata';
+  static const String TITLE_subject6 = 'Micro Processor and Micro Controller';
+  static const String TITLE_collegename = 'College Name';
+  static const String TITLE_collegecode = 'college address';
+  static const String TITLE_collegeplace = 'Select subjects';
   static const String TITLE_BOJ_VIEW_BOOK_CATERERS = 'Cooking Instructions';
   static const String TITLE_BOJ_BUY_FOOD_PRDS = 'Buy Food Products';
   static const String TITLE_MMM_MMM_REGISTRATION = 'Family Registration';
@@ -93,6 +109,11 @@ class Strings {
   static const String TITLE_VAT_SELL = 'Sell/Rent/Lease Land/House/Office';
   static const String TITLE_VAT_VIEW_EDIT_DELETE_PROFILE = 'View/Edit/Delete your created Profile';
   static const String TITLE_DPSR_ABOUT_US = 'About Us';
+  static const String TITLE_DPSR_PRODUCT_NAME = 'Select Name';
+  static const String TITLE_DPSR_PRICE = 'Select Price';
+  static const String TITLE_DPSR_SERVICES = 'Select Service';
+  static const String TITLE_DPSR_FEEDBACK = 'Give Feedback';
+  static const String TITLE_DPSR_DELIVERY = 'Select Location';
   static const String TITLE_DPSR_CONTACT_US = 'Contact Us';
   static const String TITLE_DPSR_OUR_SERVICES = 'Our Services';
   static const String TITLE_DPSR_BE_SPONSER = 'Be a Sponsor';
